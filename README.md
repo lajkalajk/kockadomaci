@@ -1,2 +1,0 @@
-# kockadomaci
-školní projekt
